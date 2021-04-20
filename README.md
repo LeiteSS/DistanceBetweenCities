@@ -18,7 +18,7 @@ implementation 'org.postgresql:postgresql'
 
 ## In The Air
 
-Click here to "play" with the API or copy and paste this link: `https://young-waters-87085.herokuapp.com` in **Postman**. The requests are those:
+[Click here](https://young-waters-87085.herokuapp.com/swagger-ui.html) to "play" with the API (Using Swagger UI) or copy and paste this link: `https://young-waters-87085.herokuapp.com` in **Postman**. The requests are those:
 
 ```bash
 # Countries
